@@ -1,0 +1,5 @@
+namespace = "CloudThat"
+aws_instance_ami = "ami-052efd3df9dad4825"
+aws_instance_type = "t2.micro"
+ssh_key_name = "k8s"
+aws_region = "us-east-1"
